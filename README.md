@@ -94,7 +94,8 @@ alt="Python 2">
 <img src="public/icons/python.svg" width="6(
                                           
                                           
-![](https:/gss0.baidu.com/vo3dsag_xl4khGko9WTAnF6hhy/zhidao/pic/item/2fdda3cc7cd98d10349702ff2b3fb80e7aec90b8.jpg)
+![](https:/gss0.baidu.com/vo3dsag_xl4khGko9WTAnF6hhy/zhidao/pic/item/2fdda3cc7cd98d10349702ff2b3fb80e7aec90b8.jp
+github  仓库镜像  gitcode←github
                                           
                                           
                                           9月来啦
