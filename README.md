@@ -59,49 +59,5 @@ nknlknfw
 
 15:02，查看第五次提交仍未自动同步，这是第六次提交——
 
-第六次提交实时同步了，这是第7次提交15:15
-<div style="display: flex; align-items: center; jus
-tify-content: center;">
-<img src="public/icons/c.svg" width="60" alt
-<img src="public/icons/clojure.svg" width="6(
-"alt="Clojure">
-<img src="public/icons/cpp.svg" width="60"
-t="C++">
-<img src="public/icons/css.svg" width="60"
-t="CSS'
-8
-="Go">
-<img src="public/icons/go.svg" width="60" al
-<img src="public/icons/groovy.svg" width="6(
-" alt="Groovy">
-<img src="public/icons/html.svg" width="60"
-alt="HTML">
-<img src="public/icons/java.svg" width="60"
-t="Java">
-<img src="public/icons/javascript-browser.sv
-"width="60" alt="JavaScript(Browser)">
-<img src="public/icons/javascript-jquery.svg
-width="60" alt="JavaScript (jQuery)">
-<img src="public/icons/nodejs.svg" width="6(
-alt="JavaScript(Node.js)">
-<img src="public/icons/kotlin.svg" width="60
-alt="Kotlin">
-<img src="public/icons/nodejs.svg" width="6(
-alt="Node.js">
-<img src="public/icons/python.svg" width="6
-alt="Python 2">
-' alt="Python 3">
-<img src="public/icons/python.svg" width="6(
-                                          
-                                          
-![](https:/gss0.baidu.com/vo3dsag_xl4khGko9WTAnF6hhy/zhidao/pic/item/2fdda3cc7cd98d10349702ff2b3fb80e7aec90b8.jp
-github  仓库镜像  gitcode←github
-                                          
-                                          
-                                          9月来啦
-
-                                          
-
-
-
-
+第六次提交实时同步了，这是第7次提交15:15  
+mashang12yuele
